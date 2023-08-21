@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd 
-from langchain.prompts import PromptTemplate
-from langchain.llms import CTransformers 
-import pandas as pd 
+#from langchain.prompts import PromptTemplate
+#from langchain.llms import CTransformers 
+#import pandas as pd 
 
 def read_file(file_name : str) -> pd.DataFrame(): 
     # Function to read file
