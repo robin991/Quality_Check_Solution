@@ -1,0 +1,3 @@
+Homepage.py : this app is build without LLama2 integration and was deployed accordingly
+
+Homepagecopy.py: this app is build with llama2 integration using 7b CPU and hasn't been deployed.
