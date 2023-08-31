@@ -37,7 +37,7 @@ st.title("QC Solution")
 #Read file from side bar
 df = read_file(file_name = "File1")
 
-
+st.write("[Sample data for upload](https://github.com/robin991/Quality_Check_Solution/tree/main/data)")
 
 st.header('Uploaded Data is :')
 st.dataframe(st.session_state['df'], width = 600)
